@@ -95,4 +95,4 @@ app.delete("/eliminarPelicula/:id", (req, res) => {
 })
 
 
-app.listen(port, () => console.log(`Listening on port ${port}`))
+app.listen(port, () => console.log(`Corriendo el en puerto ${port}`))
